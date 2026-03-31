@@ -1,0 +1,60 @@
+[
+    {
+       "id": 1,
+       "name": "burger",
+       "Price": "$2.65",
+       "image": "burger.png"
+    },
+    
+    {
+       "id": 2,
+       "name": "Pizza",
+       "Price": "$2.99",
+       "image": "pizza.png"  
+    },
+    
+     
+    {
+       "id": 3,
+       "name": "fried Chicken",
+       "Price": "$2.65",
+       "image": "fried-chicken.png"  
+    },
+     
+    {
+       "id": 4,
+       "name": "Chicken Roll",
+       "Price": "$2.49",
+       "image": "chicken-roll.png"  
+    },
+ 
+    {
+       "id": 5,
+       "name": "Sandwich",
+       "Price": "$5.99",
+       "image": "sandwich.png"  
+    },
+     
+    {
+       "id": 6,
+       "name": "lasagna",
+       "Price": "$2.98",
+       "image": "lasagna.png"  
+    },
+     
+    {
+       "id": 7,
+       "name": "Spaghetti",
+       "Price": "$2.73",
+       "image": "spaghetti.png"  
+    },
+     
+    {
+       "id": 8,
+       "name": "spring Roll",
+       "Price": "$2.26",
+       "image": "spring-roll.png"  
+    }
+
+
+]
